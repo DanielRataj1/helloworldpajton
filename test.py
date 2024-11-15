@@ -1,0 +1,1 @@
+print("jestes na prezentaci 2giej, zestopowales na listach")
